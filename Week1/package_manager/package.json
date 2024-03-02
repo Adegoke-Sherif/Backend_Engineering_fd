@@ -1,0 +1,14 @@
+{
+  "name": "new_package",
+  "version": "1.0.0",
+  "description": "This is a test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adegoke Sherif",
+  "license": "ISC",
+  "dependencies": {
+    "mathjs": "^12.4.0"
+  }
+}

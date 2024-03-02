@@ -1,0 +1,3 @@
+Library called mathjs (npmsjs.com)
+
+npm i mathjs
